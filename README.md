@@ -1,4 +1,4 @@
-# E-Book: Let AI teach you Modern Software Engineering
+# E-Book: Let AI teach you Web Programming
 
 > A book for human web programmer
 
@@ -12,8 +12,8 @@
 
 | Language | Title |
 |----------|-------|
-| [English](en/README.md) | Let AI teach you Modern Software Engineering |
-| [繁體中文](tw/README.md) | 讓 AI 教你現代軟體工程 |
+| [English](en/README.md) | Let AI teach you Web Programming |
+| [繁體中文](tw/README.md) | 讓 AI 教你設計網站 |
 
 ## Core Code
 
@@ -23,11 +23,9 @@
 
 ### Book Example Code
 
-* [_code/html/](_code/git/) - HTML examples
-* [_code/css/](_code/prompt/) - CSS examples
-* [_code/js/](_code/skill/) - JavaScript examples
-* [_code/fastapi/](_code/agent/) - FastAPI examples
-* [_code/react/](_code/agent/) - React.js examples
+* [_code/hmtl/](_code/html/)
+* [_code/css/](_code/css/)
+* [_code/js/](_code/js/) 
 
 ---
 
